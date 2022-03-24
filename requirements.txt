@@ -1,12 +1,11 @@
-Flask==1.0.2
+Flask
 gunicorn
-itsdangerous==1.1.0
-Jinja2==2.10.1
-MarkupSafe==1.1.1
-Werkzeug==0.15.5
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
 tensorflow-cpu
 Pillow>=5.4.0
 numpy
 scikit-learn
 pandas
-collections.abc
